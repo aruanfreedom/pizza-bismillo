@@ -51,7 +51,7 @@
 	/* Start Navigation Title Font */
 	.navigation .menu-item-mega-container > ul > li > a .nav_title,
 	.navigation > li > a {
-		font-family:'Yanone Kaffeesatz', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+		font-family:'Yanone Kaffeesatz-regular-rus', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
 		font-size:24px;
 		line-height:30px;
 		font-weight:700;
@@ -118,7 +118,7 @@
 	h1 a,
 	#header .search_wrap .search_bar_wrap .search_field input,
 	.logo .title {
-		font-family:'Yanone Kaffeesatz', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+		font-family:'Yanone Kaffeesatz-regular-rus', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
 		font-size:56px;
 		line-height:62px;
 		font-weight:700;
@@ -250,7 +250,7 @@
 	.widget_custom_popular_projects_entries .cmsmasters_slider_project_title a,
 	.cmsmasters_counters .cmsmasters_counter_title,
 	.post_nav a {
-		font-family:'Yanone Kaffeesatz', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+		font-family:'Yanone Kaffeesatz-regular-rus', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
 		font-size:30px;
 		line-height:38px;
 		font-weight:700;
@@ -282,7 +282,7 @@
 	.cmsmasters_stats.stats_mode_circles .cmsmasters_stat_wrap .cmsmasters_stat .cmsmasters_stat_inner .cmsmasters_stat_counter_wrap .cmsmasters_stat_counter, 
 	.cmsmasters_sitemap_wrap .cmsmasters_sitemap > li > ul > li > a, 
 	.cmsmasters_sitemap_wrap .cmsmasters_sitemap_category > li > a {
-		font-family:'Leckerli One', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+		font-family:'Lobster', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
 		font-size:30px;
 		line-height:38px;
 		font-weight:normal;
@@ -429,7 +429,7 @@
 	input[type=submit], 
 	input[type=button], 
 	button {
-		font-family:'Yanone Kaffeesatz', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+		font-family:'Yanone Kaffeesatz-regular-rus', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
 		font-size:24px;
 		line-height:48px;
 		font-weight:bold;
