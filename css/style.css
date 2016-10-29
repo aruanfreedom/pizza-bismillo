@@ -4643,6 +4643,10 @@ body .headline {
   top: auto;
   margin: 0 2px;
 }
+.cmsmasters_posts_slider .pizza {
+  display: inline-block;  
+  width: 24.6%;
+}
 .cmsmasters_posts_slider .preloader.highImg {
   height: auto;
   padding: 0;

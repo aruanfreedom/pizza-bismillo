@@ -1,0 +1,4 @@
+out
+.vscode
+bower_components/**
+bower_components
