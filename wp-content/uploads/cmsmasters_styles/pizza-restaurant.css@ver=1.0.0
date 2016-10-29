@@ -17,7 +17,7 @@
 	.widget_custom_posts_tabs_entries .cmsmasters_tabs .cmsmasters_lpr_tabs_cont > a,
 	.cmsmasters_quotes_slider_type_box .cmsmasters_quote_content,
 	.cmsmasters_quotes_grid .cmsmasters_quote_content {
-		font-family:'Port Lligat Slab', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+		font-family:'Open Sans', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
 		font-size:18px;
 		line-height:26px;
 		font-weight:normal;
@@ -33,7 +33,7 @@
 
 	/* Start Link Font */
 	a {
-		font-family:'Port Lligat Slab', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+		font-family:'Open Sans', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
 		font-size:16px;
 		line-height:24px;
 		font-weight:normal;
@@ -73,7 +73,7 @@
 	.navigation > li > a .nav_subtitle,
 	.top_line_nav > li > a,
 	.top_line_nav ul li a {
-		font-family:'Port Lligat Slab', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+		font-family:'Open Sans', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
 		font-size:16px;
 		line-height:18px;
 		font-weight:normal;
@@ -102,7 +102,7 @@
 	
 	@media only screen and (max-width: 1024px) {
 		#header .header_mid .search_wrap .search_bar_wrap .search_field input {
-			font-family:'Port Lligat Slab', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+			font-family:'Open Sans', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
 			font-size:16px;
 			line-height:18px;
 			font-weight:normal;
@@ -512,7 +512,7 @@
 	.cmsmasters_slider_project .cmsmasters_slider_project_cont_info a,
 	.cmsmasters_slider_post .cmsmasters_slider_post_cont_info,
 	.cmsmasters_slider_post .cmsmasters_slider_post_cont_info a {
-		font-family:'Port Lligat Slab', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+		font-family:'Open Sans', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
 		font-size:16px;
 		line-height:22px;
 		font-weight:normal;
@@ -529,7 +529,7 @@
 	.gform_wrapper .gfield_description, 
 	.gform_wrapper .gsection_description, 
 	.gform_wrapper .instruction {
-		font-family:'Port Lligat Slab', Arial, Helvetica, 'Nimbus Sans L', sans-serif !important;
+		font-family:'Open Sans', Arial, Helvetica, 'Nimbus Sans L', sans-serif !important;
 		font-size:16px !important;
 		line-height:22px !important;
 	}
@@ -542,7 +542,7 @@
 	select,
 	option,
 	code {
-		font-family:'Port Lligat Slab', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+		font-family:'Open Sans', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
 		font-size:16px;
 		line-height:24px;
 		font-weight:normal;
@@ -589,7 +589,7 @@
 	.cmsmasters_woo_wrap_result .woocommerce-result-count, 
 	.shop_table.woocommerce-checkout-review-order-table .product-name dl, 
 	.shop_table.order_details .product-name dl {
-		font-family:'Port Lligat Slab', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+		font-family:'Open Sans', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
 		font-size:18px;
 		line-height:26px;
 		font-weight:normal;
@@ -778,7 +778,7 @@
 	.shop_table td > .amount, 
 	.widget_shopping_cart .cart_list a, 
 	.widget > .product_list_widget a {
-		font-family:'Port Lligat Slab', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+		font-family:'Open Sans', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
 		font-size:16px;
 		line-height:22px;
 		font-weight:normal;
@@ -6303,4 +6303,6 @@
 	/* Finish Header Top Navigation Dropdown Link Border Color */
 
 /***************** Finish Header Top Navigation Color Scheme Rules ******************/
+
+// Custom is my css
 
