@@ -2,7 +2,7 @@
 
 $name=$_GET["name"];
 
-$to = 'aruan_777@mail.ru'; 
+$to = 'nailanaila@mail.ru'; 
         // $from - от кого 
         $from='zhenya@bismillo-pizza.kz'; 
         $title='Новый заказ';
