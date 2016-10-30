@@ -28,7 +28,46 @@
 .tingle-modal--visible .tingle-modal-box__footer .tingle-btn{
 	margin: 5px;
 }
-#theme-custom {
+#theme-custom h2, 
+#theme-custom h3 {
 	color: #333;
 	text-align: center;  
+}
+.tingle-modal {
+	z-index: 10000;
+}
+.tingle-modal label {
+	color: #000;
+}
+.cmsmasters_menu_item_img {
+	background: url('../img/bg-pizza.jpg') repeat center center;
+	background-size: cover;
+	text-align: center !important;
+	margin: 0 0 35px 0;
+}
+.sushi .cmsmasters_menu_item_img,
+.drinks .cmsmasters_menu_item_img {
+	background: #fff;
+}
+.cmsmasters_menu_item {
+	height: 520px;
+}
+.cmsmasters_heading {
+	text-align: left !important;
+}
+#vk:before,
+#instagram:before {
+    content: "";
+    background: url(../img/icon/vk.svg) no-repeat center center #e46634;
+    background-size: 70%;
+    border-radius: 50%;
+	transition: all 0.8s;
+}
+#vk:hover:before,
+#instagram:hover:before {
+    background-color: #cfcfcf;  
+}
+#instagram:before {
+	 background: url(../img/icon/instagram.svg) no-repeat center center #e46634;
+	background-size: 60%;
 }
