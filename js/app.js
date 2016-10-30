@@ -130,3 +130,11 @@ function vote() {
         // (5)
 	statusElem.innerHTML = 'Отправка данных...' 
 }
+
+// var links = document.getElementsByTagName('a');
+
+// for(i = 0; i < links.length; i++) {
+//         links[i].onclick = function (e){
+//             e.preventDefault();
+//         }
+// }
