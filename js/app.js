@@ -119,7 +119,7 @@ function vote() {
 	}
 
        // (3) задать адрес подключения
-	req.open('GET', 'send.php?name='+ namePerson.value + ' телефон: ' + tel.value, true);  
+	req.open('GET', 'send.php?name='+ namePerson.value + ' Телефон: ' + tel.value, true);  
 
 	// объект запроса подготовлен: указан адрес и создана функция onreadystatechange
 	// для обработки ответа сервера
