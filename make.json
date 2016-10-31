@@ -1,0 +1,7 @@
+{
+    "name": "jsproject",
+    "src": "script.js",
+    "output": "./script.min.js",
+    "includeReference": true,
+    "closure": {}
+}
