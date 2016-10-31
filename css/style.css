@@ -71,3 +71,15 @@
 	 background: url(../img/icon/instagram.svg) no-repeat center center #e46634;
 	background-size: 60%;
 }
+.tel-beel p{
+    text-align: right;
+    padding: 0;
+    margin: 0 7px 0 0;
+}
+.tel-beel {
+	cursor: pointer;
+	padding: 10px;
+}
+.tel-beel:hover {
+background: rgba(0,0,0,.6);
+}
