@@ -61,7 +61,11 @@
 .cmsmasters_menu_item .series-number span{
 	color: #fff;
 	font-weight: bold;
-	background: #000;
+    background: #f77808;
+    border: 3px solid #fff;
+	display: block;
+	width: 80px;
+	text-align: center;
 	padding: 10px;
 }
 .cmsmasters_heading {
