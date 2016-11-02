@@ -50,7 +50,19 @@
 	background: #fff;
 }
 .cmsmasters_menu_item {
+	position: relative;
 	height: 520px;
+}
+.cmsmasters_menu_item .series-number {
+	position: absolute;
+	left: 10px;
+	top: 30px;
+}
+.cmsmasters_menu_item .series-number span{
+	color: #fff;
+	font-weight: bold;
+	background: #000;
+	padding: 10px;
 }
 .cmsmasters_heading {
 	text-align: left !important;
