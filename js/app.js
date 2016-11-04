@@ -52,7 +52,7 @@ var modalClick = function() {
     for(i = 0; i < btn.length; i++) {
         btn[i].onclick = function (){
             modal.open();
-            modal.setContent('<div id="theme-custom"><h2>Заказать звонок</h2><form name="modalBell" id="modalBell" action="#"><label>Имя</label> <input type="text" name="name" id="name-person" required plecholder="Введите свое имя"> \n <br /> <label>Телефон</label> <input required type="number" id="tel" name="tel" maxlength="11" plecholder="Введите свои телефон"><span class="error-modal">Заполните пожалуйста поля</span><span id="vote_status"><span></form><h3>Сот: +7 708 425 44 80, <br> раб.: 43 13 13</h3></div>');
+            modal.setContent('<div id="theme-custom"><h2>Заказать звонок</h2><form name="modalBell" id="modalBell" action="#"><label>Имя</label> <input type="text" name="name" id="name-person" required plecholder="Введите свое имя"> \n <br /> <label>Телефон</label> <input required type="number" id="tel" name="tel" maxlength="11" plecholder="Введите свои телефон"><span class="error-modal">Заполните пожалуйста поля</span><span id="vote_status"><span></form><h3>8 778 123 76 37, 8 708 175 51 41, 8 705 659 28 83</h3></div>');
 
             form = document.getElementById('modalBell'),
             namePerson = document.getElementById('name-person'),
