@@ -55,7 +55,7 @@
 }
 .cmsmasters_menu_item .series-number {
 	position: absolute;
-	display: none;
+	/*display: none;*/
 	left: 10px;
 	top: 30px;
 }
